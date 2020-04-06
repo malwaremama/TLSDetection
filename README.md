@@ -3,10 +3,12 @@
 These are custom vulnerability signatures created using PAN-OS 9.0.x. 
 
 #### Purpose:
-Detect TLS version without needing to enable a SSL Decryption profile. Since these will trigger informational alerts in the NGFW you can also mine this utilizing a SIEM for tracking and building visuals.
+Detect TLS versioning without needing to enable a SSL Decryption profile. Since these will trigger informational alerts in the NGFW you can also mine this utilizing a SIEM for tracking and building visuals.
+
 
 #### Instructions:
 You will need to import these into your NGFW and tie them to the appropriate vulnerability security profile.
+
 
 ### Support Policy
 The code and templates in the repo are released under an as-is, best effort,
