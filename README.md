@@ -1,5 +1,5 @@
 
-# Detecting TLS Versions on a Palo Alto NGFW
+# Detecting TLS Versions on a Palo Alto Networks NGFW
 These are custom vulnerability signatures created using PAN-OS 9.0.x. 
 
 #### Purpose:
