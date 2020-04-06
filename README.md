@@ -3,7 +3,7 @@
 These are custom vulnerability signatures created using PAN-OS 9.0.x. 
 
 #### Purpose:
-Detect TLS versioning without needing to enable a SSL Decryption profile. Since these will trigger informational alerts in the NGFW you can also mine this utilizing a SIEM for tracking and building visuals.
+Detect TLS versioning without needing to enable a SSL Decryption profile. Since these will trigger informational alerts in the NGFW you can also query these utilizing a SIEM for tracking and building visuals.
 
 
 #### Instructions:
